@@ -15,7 +15,15 @@
                                            "notas":  "Primer release publico de Computienda 5. Incluye respaldo automatico pre-migracion de BD y auto-updater cliente. Los instaladores silenciosos usan Restart Manager para cerrar la app en uso.",
                                            "mandatorio":  false,
                                            "minVersion":  ""
-                                       }
+                                       },
+                      "Facturacion":  {
+                                          "version":  "5.0.62",
+                                          "url":  "https://github.com/rodhzuniga/computienda5-releases/releases/download/v5.0.62/Computienda5_Facturacion_v5.0.62.exe",
+                                          "sha256":  "55703fe685bf60d4e7d1ea6edc1d4ce383be2c47d67e036c9005d2f114ce505f",
+                                          "notas":  "Primer release publico de Computienda 5. Incluye respaldo automatico pre-migracion de BD y auto-updater cliente. Los instaladores silenciosos usan Restart Manager para cerrar la app en uso.",
+                                          "mandatorio":  false,
+                                          "minVersion":  ""
+                                      }
                   },
-    "generado":  "2026-08-23T11:18:45Z"
+    "generado":  "2026-08-23T11:21:55Z"
 }
