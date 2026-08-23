@@ -7,7 +7,15 @@
                                         "notas":  "Primer release publico de Computienda 5. Incluye respaldo automatico pre-migracion de BD y auto-updater cliente. Los instaladores silenciosos usan Restart Manager para cerrar la app en uso.",
                                         "mandatorio":  false,
                                         "minVersion":  ""
-                                    }
+                                    },
+                      "Fidelizacion":  {
+                                           "version":  "5.0.62",
+                                           "url":  "https://github.com/rodhzuniga/computienda5-releases/releases/download/v5.0.62/Computienda5_Fidelizacion_v5.0.62.exe",
+                                           "sha256":  "fd2aa2ef594b6b0c985db1e4eaee47ba8a41c3992b09170ea4a66a88ce25ec58",
+                                           "notas":  "Primer release publico de Computienda 5. Incluye respaldo automatico pre-migracion de BD y auto-updater cliente. Los instaladores silenciosos usan Restart Manager para cerrar la app en uso.",
+                                           "mandatorio":  false,
+                                           "minVersion":  ""
+                                       }
                   },
-    "generado":  "2026-08-23T11:03:53Z"
+    "generado":  "2026-08-23T11:18:45Z"
 }
