@@ -1,1 +1,13 @@
-{"generado":"","ediciones":{}}
+{
+    "ediciones":  {
+                      "Abarrotes":  {
+                                        "version":  "5.0.61",
+                                        "url":  "https://github.com/rodhzuniga/computienda5-releases/releases/download/v5.0.61/Computienda5_Abarrotes_v5.0.61.exe",
+                                        "sha256":  "cc5880b3a3e1c200e527e635deb5eb831b0a9d0564508f4dcfaa6a70983bb2cd",
+                                        "notas":  "Primer release publico de Computienda 5. Incluye respaldo automatico pre-migracion de BD y auto-updater cliente. Los instaladores silenciosos usan Restart Manager para cerrar la app en uso.",
+                                        "mandatorio":  false,
+                                        "minVersion":  ""
+                                    }
+                  },
+    "generado":  "2026-08-23T11:03:53Z"
+}
