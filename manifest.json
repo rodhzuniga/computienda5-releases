@@ -31,7 +31,15 @@
                                                   "notas":  "Primer release publico de Computienda 5. Incluye respaldo automatico pre-migracion de BD y auto-updater cliente. Los instaladores silenciosos usan Restart Manager para cerrar la app en uso.",
                                                   "mandatorio":  false,
                                                   "minVersion":  ""
-                                              }
+                                              },
+                      "Restaurante":  {
+                                          "version":  "5.0.62",
+                                          "url":  "https://github.com/rodhzuniga/computienda5-releases/releases/download/v5.0.62/Computienda5_Restaurante_v5.0.62.exe",
+                                          "sha256":  "92a867e55bd80952cd4df2377b9b877b3cc639867a6f649532cbf192592ba19d",
+                                          "notas":  "Primer release publico de Computienda 5. Incluye respaldo automatico pre-migracion de BD y auto-updater cliente. Los instaladores silenciosos usan Restart Manager para cerrar la app en uso.",
+                                          "mandatorio":  false,
+                                          "minVersion":  ""
+                                      }
                   },
-    "generado":  "2026-08-23T11:24:48Z"
+    "generado":  "2026-08-23T11:27:28Z"
 }
