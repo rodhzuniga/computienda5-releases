@@ -33,13 +33,13 @@
                                           "minVersion":  ""
                                       },
                       "Abarrotes":  {
-                                        "version":  "5.0.63",
-                                        "url":  "https://github.com/rodhzuniga/computienda5-releases/releases/download/v5.0.63/Computienda5_Abarrotes_v5.0.63.exe",
-                                        "sha256":  "f229edf73ab8f6f32a3465283bd74a39b6121c070c6f2835028848fa68acdf17",
-                                        "notas":  "Prueba del auto-updater: sin cambios funcionales, solo bump de version para verificar el flujo end-to-end de deteccion, descarga y aplicacion silenciosa.",
-                                        "mandatorio":  false,
+                                        "version":  "5.0.70",
+                                        "url":  "https://github.com/rodhzuniga/computienda5-releases/releases/download/v5.0.70/Computienda5_Abarrotes_v5.0.70.exe",
+                                        "sha256":  "e1d1355b8096aa5e778b28c153f39fee93a2cf8ccbfa213cecdffd109e8c9661",
+                                        "notas":  "Prueba Fase 3.5: hub auto-installer para releases mandatory",
+                                        "mandatorio":  true,
                                         "minVersion":  ""
                                     }
                   },
-    "generado":  "2026-08-24T08:15:53Z"
+    "generado":  "2026-08-29T13:13:45Z"
 }
